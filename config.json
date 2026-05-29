@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configparse",
+        "uuid": 155817,
+        "checksum": "sgausf"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
